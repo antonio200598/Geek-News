@@ -1,0 +1,132 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.barras1
+     {
+            width: 45%;
+            background-color: rgb(0, 0, 0);
+            size-adjust: 5px;
+            border-top-style: ridge;
+            border-width: 5px;
+            border-radius: 12px;
+            font-family: sans-serif;
+            color: #ffffff;
+            font-weight: 800;
+            border-style: ridge;
+            padding: 16px;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+            margin-left: 20%;
+            margin-top: 0%;
+            position:absolute;
+            top:30%; 
+            right: 35%;
+
+    }   
+
+    .barras2
+     {
+            width: 45%;
+            background-color: rgb(0, 0, 0);
+            size-adjust: 5px;
+            border-top-style: ridge;
+            border-width: 5px;
+            border-radius: 12px;
+            font-family: sans-serif;
+            color: #ffffff;
+            font-weight: 800;
+            border-style: ridge;
+            padding: 16px;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+            margin-left: 20%;
+            margin-top: 0%;
+            position:absolute;
+            top:90%; 
+            left: 0%;
+            right:-30%;
+            justify-content: flex-start;
+
+    }   
+    .ranking 
+    {
+        width: 15%;
+        float:left;
+        margin-left: 80%;
+        margin-top: 20%;
+        size-adjust: 10px;
+        border-top-style: outset;
+        border-width: 3px;
+        border-radius: 12px;
+        background-color:rgb(0, 0, 0);
+        font-family: sans-serif;
+        color: #ffffff;
+        border-style: ridge;
+        padding: 12px;
+        box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    }
+
+    a
+        {
+            color: #ffffff;
+            text-decoration:underline;
+            transition: 0.3s;
+        }
+
+        a:hover 
+        {
+            opacity: 0.7;  
+        } 
+
+        .marc
+        {
+            color: white;
+        }
+
+        #marc
+        {
+            color: white;
+        }
+
+        body        
+        {
+            background-image: url('https://wallpaperaccess.com/full/3149453.gif');
+            background-size: cover;
+            background-position-y: 10px;
+            font-family: sans-serif;
+            font-size: 1em;
+            color: rgb(255, 255, 255);
+            margin-left: 0%;
+            margin-top: 0%;
+            justify-content: center;
+            height: 100%;
+            
+        }
+
+        .d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom
+        {
+            background-color:black;
+        }
+
+        .nav-teste 
+        {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            font-family: "Roboto", sans-serif;
+            background-color: rgb(0, 0, 0);
+            height:auto;
+        } 
+
+        .bot
+        {
+            background-color:rgb(255, 255, 255);
+            font-family: sans-serif;
+            color: #000000;
+
+        }
+
+
+
+

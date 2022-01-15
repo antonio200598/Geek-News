@@ -1,0 +1,278 @@
+        *
+        {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .nav-teste 
+        {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            font-family: "Roboto", sans-serif;
+            background-color: rgb(0, 168, 243);
+            height: 10vh;
+        } 
+        
+        .nav-list 
+        {
+            list-style: none;
+            display: flex;
+        }
+          
+        .nav-list li 
+        {
+            letter-spacing: 1px;
+            margin-left: 32px;
+        }
+
+
+        .bot
+        {
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+            width: 33%;
+            float: left;
+            margin-left: 33%;
+            margin-top: 5%;
+
+        }
+       
+        .acesso 
+        { 
+            width: 33%;
+            float: center;
+            margin-left: 7%;
+            margin-top: 5%;
+            size-adjust: 10px;
+            border-top-style: outset;
+            border-width: 3px;
+            border-radius: 5px;
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+        }
+        
+        div
+        {
+            padding: 5;
+            padding-left: 30px;
+            float: left;
+        }
+        
+        .barras
+        {
+            width: 50%;
+            size-adjust: 15px;
+            border-top-style: outset;
+            border-width: 3px;
+            border-radius: 5px;
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+            margin-left: 30%;
+            margin-top: 0%;
+        }
+        
+        .barras1
+        {
+            width: 50%;
+            background-color: rgb(0, 168, 243);
+            size-adjust: 5px;
+            border-top-style: ridge;
+            border-width: 5px;
+            border-radius: 12px;
+            font-family: sans-serif;
+            color: #ffffff;
+            font-weight: 800;
+            border-style: ridge;
+            padding: 16px;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+            margin-left: 30%;
+            margin-top: 0%;
+
+        }
+
+    
+        body        
+        {
+            background-image: url('https://wallpaperaccess.com/full/3149453.gif');
+            background-size: cover;
+            background-position-y: 10px;
+            font-family: sans-serif;
+            font-size: 1em;
+            color: rgb(255, 255, 255);
+            margin-left: 0%;
+            margin-top: 0%;
+            justify-content: center;
+            height: 100%;
+            
+        }
+
+        .topnav
+        {
+            
+            height: 33px;
+            float: left;
+            margin-left: 1%;
+            margin-top: 1%;
+        }
+        
+        .ranking 
+        {
+            width: 25%;
+            float:left;
+            margin-left: 80%;
+            margin-top: 20%;
+            size-adjust: 10px;
+            border-top-style: outset;
+            border-width: 3px;
+            border-radius: 12px;
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+            border-style: ridge;
+            padding: 16px;
+            box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+        }
+        .contato
+        {   
+            position:absolute;
+            right: 1150px;
+            bottom: 150px;
+            width: 15%;
+            border-top-style: outset;
+            border-width: 3px;
+            border-radius: 5px;
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+        }
+        .cr 
+        {
+            border-top-style: outset;
+            font-size: 1.2em;
+            background: rgb(0, 168, 243);
+            color: #ffffff;
+            border: 0;
+            border-width: 3px;
+            border-width: 3px;
+            border-radius: 5px;
+            margin-bottom: 1em;
+            padding: 0.2em 0.6em;
+            box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+            text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+            
+        }
+        .cr1 
+        {
+            border-top-style: outset;
+            font-size: 1.2em;
+            background: rgb(0, 168, 243);
+            border: 0;
+            border-width: 3px;
+            border-width: 3px;
+            border-radius: 5px;
+            margin-bottom: 1em;
+            color: #000000;
+            padding: 0.2em 0.6em;
+            box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+            text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+            position: right;
+            top: 73%;
+            left: 30.0%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+        a
+        {
+            color: #ffffff;
+            text-decoration:underline;
+            transition: 0.3s;
+        }
+
+        a:hover 
+        {
+            opacity: 0.7;  
+        } 
+
+        textarea
+        {
+            color: black;
+            background-color: #ffffff;
+            font-family: sans-serif;
+            
+
+        }
+        table
+        {
+            color: rgb(0, 168, 243);
+            border-collapse:separate;
+            border-spacing: 0;
+            margin-left: 0%;
+            font-family: sans-serif;
+            border-top-style: outset;
+        }
+        
+        tr, td
+        {
+            padding: 10px 20px;
+            
+        } 
+        
+        .ca
+        {
+            font-family: sans-serif;
+            font-size: 1em;
+            color: #000000;
+            border-radius: 5px;
+        }
+        
+        .barras2
+        {
+            background-color: rgb(0, 168, 243);
+            color: #ffffff;
+        } 
+
+        .ranking1 
+        {
+            width: 20%;
+            float: left;
+            margin-left: 60%;
+            margin-top: -37%;
+            size-adjust: 10px;
+            border-top-style: outset;
+            border-width: 3px;
+            border-radius: 5px;
+            background-color:rgb(0, 168, 243);
+            font-family: sans-serif;
+            color: #ffffff;
+        }
+
+        .cr2 
+        {
+            border-top-style: outset;
+            font-size: 1.2em;
+            background: rgb(0, 168, 243);
+            border: 0;
+            border-width: 3px;
+            border-width: 3px;
+            border-radius: 5px;
+            margin-bottom: 1em;
+            color: #ffffff;
+            padding: 0.2em 0.6em;
+            box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+            text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+            position: right;
+            top: 73%;
+            left: 30.0%;
+            margin-right: -50%;
+            transform: translate(-50%, -50%)
+        }
+
+        .marc
+        {
+            color: white;
+        }
